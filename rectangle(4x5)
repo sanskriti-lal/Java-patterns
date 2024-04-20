@@ -1,0 +1,18 @@
+/*RETANGLE OUTPUT
+*****
+*****
+*****
+*****
+*/
+public class basic_pat{
+    public static void main(String[]args){
+        int i,j; //j is for column & i is for rows
+        for(i=1;i<=4;i++){
+            for(j=1;j<5;j++){
+            System.out.print("*");
+            }
+        System.out.println("*");
+        }
+    }
+    
+}
