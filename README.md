@@ -1,1 +1,1 @@
-# Java-patterns
+Welcome to Java Patterns: Questions & Solutions! This repository offers a variety of Java programming questions focused on pattern printing, accompanied by clear solutions. Whether you're a beginner honing your skills or an expert revisiting fundamentals, dive in to enhance your Java pattern programming proficiency
